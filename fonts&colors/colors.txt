@@ -1,0 +1,5 @@
+hero-section rgb(231, 245, 255);
+
+h1,h2,h3,h4,h6 #000000
+h5 rgb(91, 91, 91);
+body,p,span color #5B5B5B;
